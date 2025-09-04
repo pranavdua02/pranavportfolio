@@ -35,7 +35,7 @@ export default function Footer() {
           </button>
         </a>
       </div>
-      <p className="text-xl pt-5 font-semibold">© 2024 Pranav Dua</p>
+      <p className="text-xl pt-5 font-semibold">© 2025 Pranav Dua</p>
     </div>
   );
 }
