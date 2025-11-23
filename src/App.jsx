@@ -7,6 +7,7 @@ import Projects from "./components/Projects.jsx";
 import Achievements from "./components/Achievements.jsx";
 import Contact from "./components/Contact.jsx";
 import Footer from "./components/Footer.jsx";
+import Experience from "./components/Experience.jsx";
 
 function App() {
   return (
@@ -20,6 +21,9 @@ function App() {
       </section>
       <section id="#skills">
         <Skills />
+      </section>
+      <section id="#experience">
+      <Experience />
       </section>
       <section id="#education">
         <Education />
