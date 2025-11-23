@@ -54,18 +54,6 @@ const Education = () => {
             place="SVNIT Surat"
             info="Completed a Bachelor of Technology (B.Tech) in Electrical Engineering (EE) at SVNIT Surat, emphasizing a strong foundation in cutting-edge technology and problem-solving skills."
           />
-          <Details
-            type="Deep Learning"
-            time="2023-2023"
-            place="Coursera, Remote"
-            info="Successfully completed a Deep Learning course by Andrew Ng on the Coursera platform, acquiring expertise in advanced neural network techniques and applications."
-          />
-          <Details
-            type="Web Development Bootcamp"
-            time="2023-2023"
-            place="Udemy, Remote"
-            info="Completed a Website development course using MERN on Udemy instructed by Angela Yu, gaining insightful deep knowledge of scalable web designs."
-          />
         </ul>
       </div>
     </div>
