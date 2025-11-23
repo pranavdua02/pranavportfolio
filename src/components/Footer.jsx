@@ -12,7 +12,7 @@ export default function Footer() {
       </p>
       <div className="flex flex-row space-x-5 pt-10">
         <a
-          href="https://www.linkedin.com/in/pranav-dua-023811222/"
+          href="https://www.linkedin.com/in/pranav-dua/"
           target="_blank"
         >
           <button className="rounded-full hover:bg-white hover:border-white hover:text-[#6e07f3] text-white font-bold py-3 px-3 border-2 border-[#e2cdfd]">
