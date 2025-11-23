@@ -10,10 +10,7 @@ const About = () => {
       </h1>
       <div className="flex flex-row items-center justify-center">
         <p className="text-white lg:text-2xl text-sm font-semibold px-[2.4rem] py-[2.4rem] w-full lg:w-[60rem] xl:w-[70rem] text-center">
-          "I'm a full-stack developer specializing in C++ and the MERN stack.
-          Competitive programming enthusiast with a passion for problem-solving.
-          Committed to crafting efficient solutions and staying updated on tech
-          trends. Let's code and innovate together!"
+          "Software Engineer at Searce | Turning complex problems into fast, scalable systems with modern web stacks and cloud. C++ competitive programmer at heart, now shipping production code that drives real business impact. Obsessed with clean architecture, performance, and constant learning. Let’s build the future – one efficient line at a time! 🚀"
         </p>
       </div>
       <div className="p-3">
