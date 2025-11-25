@@ -66,7 +66,7 @@ function Skills() {
                   className="h-12 w-12 mx-2"
                 />
               </a>
-              <a href="https://www.geeksforgeeks.org/user/duapramqwo/">
+              <a href="https://www.geeksforgeeks.org/user/duapranav/">
                 <img
                   src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000"
                   alt="geeksforgeeks"
