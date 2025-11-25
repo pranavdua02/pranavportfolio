@@ -8,6 +8,7 @@ import Achievements from "./components/Achievements.jsx";
 import Contact from "./components/Contact.jsx";
 import Footer from "./components/Footer.jsx";
 import Experience from "./components/Experience.jsx";
+import Profiles from "./components/Profiles.jsx";
 
 function App() {
   return (
@@ -23,7 +24,10 @@ function App() {
         <Skills />
       </section>
       <section id="#experience">
-      <Experience />
+        <Experience />
+      </section>
+      <section id="#profiles">
+        <Profiles />
       </section>
       <section id="#education">
         <Education />
